@@ -1,0 +1,6 @@
+Las APIs son herramientas muy útiles para organizar el intercambio de información entre diferentes aplicaciones y usuarios. En una comunidad,
+permiten que las personas envíen reportes, alertas y solicitudes de manera rápida y estructurada. Gracias a las APIs, la información
+puede almacenarse en una base de datos y consultarse cuando sea necesario. También facilitan la comunicación entre aplicaciones móviles,
+sitios web y sistemas de administración. Por ejemplo, una comunidad podría reportar daños en las vías, problemas de seguridad o necesidades 
+de ayuda social. Las autoridades podrían recibir estos datos en tiempo real y dar seguimiento a cada caso. Además, las APIs ayudan a evitar la pérdida de información
+y mejoran la coordinación entre los participantes. Por estas razones, son una herramienta fundamental para la gestión moderna de información comunitaria.
